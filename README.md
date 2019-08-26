@@ -1,4 +1,3 @@
-# horizontal_list_view
+# Horizontal_List_Views
 
 A new Flutter test project.
-# Horizontal_List_Views
